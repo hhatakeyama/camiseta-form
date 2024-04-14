@@ -110,7 +110,7 @@ export default function Perguntas() {
       {respostaPositiva && (
         <Text ta="center" size="xl">
           Me chama no WhatsApp.<br />
-          Me chamo Rodrigo e meu número é o (17) 99274-2993
+          Me chamo Rodrigo e meu número é o <a href="https://wa.me/+5517992742993?text=">(17) 99274-2993</a>
         </Text>
       )}
     </Stack>
